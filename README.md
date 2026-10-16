@@ -46,7 +46,12 @@ the GPU smoke run on your machine.
 ## Install on the GPU machine
 
 Use Linux and Python **3.10–3.12**. The commands below assume the repository has
-already been cloned and the current directory contains this README.
+been cloned with:
+
+```bash
+git clone https://github.com/PluvioXO/casr-dai2027-experiments.git
+cd casr-dai2027-experiments
+```
 
 ```bash
 sudo apt-get update
